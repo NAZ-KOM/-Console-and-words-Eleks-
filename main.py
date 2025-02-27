@@ -21,5 +21,5 @@ def count_word_frequency(file_path):
 
 
 if __name__ == "__main__":
-    file_path = input("Введіть повний шлях до файлу: ")
+    file_path = input("Введіть шлях до файлу: ")
     count_word_frequency(file_path)
